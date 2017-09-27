@@ -1,0 +1,6 @@
+report_scraping.Rproj
+.ipynb_checkpoints/
+.Rhistory
+.Rproj.user/
+clean/
+data/
