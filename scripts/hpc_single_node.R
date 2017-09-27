@@ -1,4 +1,6 @@
-## R script to check queue reports
+## USAGE
+# Rscript hpc_single_node.R filename
+# file is Neil's slurm statistics report for Users (not Projects)
 
 suppressWarnings(suppressMessages(library(dplyr)))
 library(tidyr)

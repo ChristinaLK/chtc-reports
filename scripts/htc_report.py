@@ -1,5 +1,5 @@
 ## USAGE
-# python report_scrape.py filename options
+# python htc_report.py filename options
 # supported options: 72 and Gluster
 # file is one of Greg's user reports
 
