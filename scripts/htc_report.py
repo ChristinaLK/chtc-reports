@@ -34,7 +34,7 @@ def main():
 	data = xlsx_file.parse(sheetname = sheet_name, skiprows = [1], index_col='User')
 	
 	for attr in attributes:
-		print(attr)
+		#print(attr)
 		print(measure(data, attr))
 	#print(data)
 
